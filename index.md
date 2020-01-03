@@ -3,46 +3,39 @@ layout: cv
 title: Richard Stanton CV
 ---
 # Richard Stanton
-Lead data scientist working on regression modelling strategies for sporting events.
+Data scientist working on regression modelling strategies for sporting events, based in Basingstoke.
 
 <div id="webaddress">
 <a href="stanton1191@gmail.com">stanton1191@gmail.com</a>
 | <a href="https://github.com/stanton119">GitHub</a>
+| <a href="https://www.linkedin.com/in/richard-stanton119/">LinkedIn</a>
 </div>
 
 ## Experience
 **(2019 – Present) Lead Data Scientist, Pythia Sports**  
-`2019 – Present`
-**Lead Data Scientist, Pythia Sports**  
-Leading team of data scientists towards business goals.  
-Switch development from Matlab to Python.  
-Transitioned VMs to AWS.  
-Moved to git version control.  
-Moved to unittest driven commmits.  
-Transitioned company modelling approach.  
-
-Management experience:
+<!-- Leading a team of data scientists towards business goals -->
+Contributions include:
+* Switching codebase from Matlab to Python
+* Transitioning internal VMs to AWS
+* Moved to unittest driven commmits
+* Changed team management structure to Agile SCRUM
+<!-- Management experience:
 * Scrum master
 * Jira/Confluence admin
 * Reporting to stakeholders
-* Training/onboarding of junior staff
-
-Tech:
-Git
-SQL server
-SPs
-Slack
-Jira/Confluence
-VSCode
-Google Cloud
-
-Python
-Pandas, numpy, scikit, matplotlib, seaborn, hvplot, tensorflow, flask
-
-Matlab since 2008
+* Training/onboarding of junior staff -->
 
 **(2016 – 2019) Data Scientist, Pythia Sports**  
-My work involves the design and application of predictive models within the sports sector. I have experience with machine learning and traditional statistical techniques in both research and production capabilties. My responsibilities include numerical analysis and the full life cycle of the modelling process comprising data collection, feature engineering and model validation through to operation.
+My work involves the design and application of predictive models within the sports sector. I have experience with machine learning and traditional statistical techniques in both research and production capabilties. My responsibilities include numerical analysis and the full life cycle of the modelling process comprising data collection, feature engineering and model validation through to production and operation.
+Significant projects include:
+* Scraping, joining and cleaning multiple large datasets
+* Moved to git version control
+* Built automated reporting platform saving countless hours per week
+* Built model design and production frameworks
+* Designed entire model analysis platform to suit company metrics
+* Changed underlying model distributions
+* Significant improvements to modelling features
+* Change the problem definition to allow the move to elasticnet models and large improvements in our metrics
 
 ## Eduction
 
@@ -76,6 +69,26 @@ My work involves the design and application of predictive models within the spor
 * Awarded Arkwright Scholarship 2006
 * Numerous prizes for academic, musical and sporting success
 
+## Tech Skills
+Python 3 years
+Matlab 10 years
+Stats - regression modelling, Bayesian stats 
+Mac/Windows 
+Linux
+
+Git
+SQL server
+Jira/Confluence
+Google Cloud/AWS
+Slack
+VSCode
+Other languages used: Javascript, C++, PHP, Swift, Objective-C, HTML/CSS, C#, MySQL
+Other stuff: Microsoft Office, Adobe Creative Suite, Agile SCRUM
+
+Python
+Pandas, numpy, scikit, matplotlib, seaborn, hvplot, tensorflow, flask
+
+Matlab since 2008
 
 <!-- ### Footer
 
