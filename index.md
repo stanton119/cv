@@ -18,7 +18,7 @@ Contributions include:
 * Switching codebase from Matlab to Python
 * Transitioning internal VMs to AWS
 * Moved to unittest driven commmits
-* Changed team management structure to Agile SCRUM
+* Changed team management structure to Agile SCRUM  
 <!-- Management experience:
 * Scrum master
 * Jira/Confluence admin
@@ -44,10 +44,10 @@ Significant projects include:
 * Supervisor: Mike Brookes, Reader in Signal Processing, Deputy Head of Communications & Signal Processing Group.
 * Interests include microphone arrays, beamforming, audio/speech analysis, stochastic processes.
 * **Thesis**: Robust Beamforming in the Presence of Channel Propagation Uncertainties
-    * http://hdl.handle.net/10044/1/43535
+    * http://hdl.handle.net/10044/1/43535  
 * Journal papers
-* Robust Power Domain Beamforming, pending.
-* Head Rotation Robust Beamforming, pending.
+    * Robust Power Domain Beamforming, pending.
+    * Head Rotation Robust Beamforming, pending.
 * Conference papers
     * Path Uncertainty Robust Beamforming, Proc. European Signal Processing Conf. (EUSIPCO), EURASIP Lisbon, Portugal, 2014.
     * A Differentiable Approximation to Speech Intelligibility Index with Applications to Listening Enhancement - Audio Engineering Society Conference: 54th International Conference Audio Forensics, 2014. - **Conference Best Paper Award**
@@ -58,37 +58,24 @@ Significant projects include:
 **(2008 - 2012) Imperial College London - MEng Electrical & Electronic Engineering**
 * **First class honours** – 80%; MEng, ACGI, IET Associate Member
 * **Thesis**: “Optimal Estimation of Linear Filtering for Enhanced Listening”
-* Awarded the UKESF Scholarship 2010-2012
-* Awarded IET NEC Scholarship 2008-2012
-* Awarded the Imperial EEE Maurice Hancock Scholarship 2008-2009
-* Led several group projects, received a first for all
 
 **(2002 - 2008) Sutton Grammar School**
 * A Levels:	Maths - A, Physics - A, D.T. - A, Further Maths - A
 * GCSEs:	8 A*s, 2 As, 2 Bs
-* Awarded Arkwright Scholarship 2006
-* Numerous prizes for academic, musical and sporting success
 
 ## Tech Skills
-Python 3 years
-Matlab 10 years
-Stats - regression modelling, Bayesian stats 
-Mac/Windows 
-Linux
+Matlab, Python (Pandas, Numpy etc.)
+Stats - regression modelling, Bayesian stats, machine learning
+Git, SQL server, Jira/Confluence  
 
-Git
-SQL server
-Jira/Confluence
-Google Cloud/AWS
-Slack
-VSCode
-Other languages used: Javascript, C++, PHP, Swift, Objective-C, HTML/CSS, C#, MySQL
-Other stuff: Microsoft Office, Adobe Creative Suite, Agile SCRUM
+<!-- Pandas, numpy, scikit, matplotlib, seaborn, hvplot, tensorflow, flask -->
 
-Python
-Pandas, numpy, scikit, matplotlib, seaborn, hvplot, tensorflow, flask
-
-Matlab since 2008
+## Awards
+* A Differentiable Approximation to Speech Intelligibility Index with Applications to Listening Enhancement - Audio Engineering Society Conference: 54th International Conference Audio Forensics, 2014. - **Conference Best Paper Award**
+* Awarded the UKESF Scholarship 2010-2012
+* Awarded IET NEC Scholarship 2008-2012
+* Awarded the Imperial EEE Maurice Hancock Scholarship 2008-2009
+* Awarded Arkwright Scholarship 2006
 
 <!-- ### Footer
 
