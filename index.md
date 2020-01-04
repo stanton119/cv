@@ -30,7 +30,7 @@ Contributions include:
 My work involves the design and application of predictive models within the sports sector. I have experience with machine learning and traditional statistical techniques in both research and production capabilties. My responsibilities include numerical analysis and the full life cycle of the modelling process comprising data collection, feature engineering and model validation through to production and operation.
 Significant projects include:
 * Scraping, joining and cleaning multiple large datasets
-* Moved to git version control
+* Moved to Git version control
 * Built automated reporting platform saving countless hours per week
 * Built model design and production frameworks
 * Designed entire model analysis platform to suit company metrics
