@@ -43,8 +43,8 @@ Significant projects include:
 **(2012 - May 2016) Imperial College London - PhD Electrical & Electronic Engineering Research**  
 * Speech and Audio Signal Processing Group.
 * Supervisor: Mike Brookes
-* Interests include microphone arrays, beamforming, audio/speech analysis, stochastic processes.
 * **Thesis**: Robust Beamforming in the Presence of Channel Propagation Uncertainties - <http://hdl.handle.net/10044/1/43535>
+* Interests include microphone arrays, beamforming, audio/speech analysis, stochastic processes.
 
 <!-- * Journal papers
     * Robust Power Domain Beamforming, pending.
@@ -57,12 +57,11 @@ Significant projects include:
 * IEEE Student member, IET Student member -->
 
 **(2008 - 2012) Imperial College London - MEng Electrical & Electronic Engineering**
-* **First class honours** – 80%; MEng, ACGI, IET Associate Member
-* **Thesis**: “Optimal Estimation of Linear Filtering for Enhanced Listening”
+* **First class honours** – 80%
+* Thesis: “Optimal Estimation of Linear Filtering for Enhanced Listening”
 
 **(2002 - 2008) Sutton Grammar School**
-* A Levels:	Maths - A, Physics - A, D.T. - A, Further Maths - A
-* GCSEs:	8 A*s, 2 As, 2 Bs
+* A Levels:	4 As, GCSEs: 8 A*s, 2 As, 2 Bs
 
 ## Other Experience
 **(2012 – 2016)	www.richard-stanton.com - Freelance software design**
@@ -83,19 +82,36 @@ Significant projects include:
 * Implemented algorithms in Matlab from academic papers, validated bit-level checks
 
 **(July – September 2011) ARM - Processor Division Validation Engineer**  
+* Built memory level demos in C for an embedded real time test platform
+* Computer architecture, RTOS design, debugging tools (SW & JTAG), Linux, VGA, uART
 
 **(June - September 2010) Imperial College London, Intelligent Systems and Networks Group - Wireless Research**  
+* Produced complex signal algorithms, presented ideas to industry executives, extensive lab work, worked with a small team of PhDs
+* Wireless communications, software defined radio, 3G, HSPA, turbo codes, QAM
 
 **(June 2009 – 2010) ParmarStanton - Founder**
 * Co-founded a web-based company to supply property information services
 * MySQL and PHP backend
 
 **(June - September 2008) Thales Avionics - Hardware Engineer**  
+* Produced several analogue systems both in a team and independently to strict deadlines and specifications for use on military aircraft
 
 ## Tech Skills
 * Matlab, Python (Pandas, Numpy etc.)
+* Data cleaning and visualisation
 * Stats - regression modelling, Bayesian stats, machine learning
-* Git, SQL server, Jira/Confluence  
+* Git, SQL server, Jira/Confluence, Markdown  
+
+
+<!-- Google Cloud/AWS
+Slack
+VSCode
+Other languages used: Javascript, C++, PHP, Swift, Objective-C, HTML/CSS, C#, MySQL
+Other stuff: Microsoft Office, Adobe Creative Suite, Agile SCRUM
+Matlab, Python (Pandas, Numpy etc.)
+Stats - regression modelling, Bayesian stats, machine learning
+Git, SQL server, Jira/Confluence   -->
+
 
 <!-- Pandas, numpy, scikit, matplotlib, seaborn, hvplot, tensorflow, flask -->
 
