@@ -7,18 +7,23 @@ Data scientist working on regression modelling strategies for sporting events, b
 
 <div id="webaddress">
 <a href="stanton1191@gmail.com">stanton1191@gmail.com</a>
-| <a href="https://github.com/stanton119">GitHub</a>
-| <a href="https://www.linkedin.com/in/richard-stanton119/">LinkedIn</a>
+| <a href="https://github.com/stanton119">GitHub: stanton119</a>
+| <a href="https://www.linkedin.com/in/richard-stanton119/">LinkedIn: Richard Stanton</a>
 </div>
 
 ## Recent Experience
 **(2019 – Present) Pythia Sports - Lead Data Scientist**  
-<!-- Leading a team of data scientists towards business goals -->
-Contributions include:
+I am responsible for a leading a team of data scientists in the design and application of predictive models within the sports sector. I have experience with machine learning and traditional statistical techniques in both research and production capabilties. My responsibilities include numerical analysis and the full life cycle of the modelling process comprising data collection, feature engineering and model validation through to production and operation.  
+From a management perspective I am responsible for specifying our modelling roadmap to fit business goals, advising on future project direction and hiring processes, reporting to stakeholders and creating business proposals with external clients on potential partnerships.  
+<!--
+Making efficient use of resources.
+-->
+My recent management contributions include:
+* Changed team management structure to Agile SCRUM
+* Speed up work efficiency by large amounts
 * Switching codebase from Matlab to Python
-* Transitioning internal VMs to AWS
-* Moved to unittest driven commmits
-* Changed team management structure to Agile SCRUM  
+* Started transitioning internal data centre VMs to AWS
+* Moved to unittest driven commmits with continuous testing  
 
 <!-- Management experience:
 * Scrum master
@@ -27,24 +32,23 @@ Contributions include:
 * Training/onboarding of junior staff -->
 
 **(2016 – 2019) Pythia Sports - Data Scientist**  
-My work involves the design and application of predictive models within the sports sector. I have experience with machine learning and traditional statistical techniques in both research and production capabilties. My responsibilities include numerical analysis and the full life cycle of the modelling process comprising data collection, feature engineering and model validation through to production and operation.
 Significant projects include:
 * Scraping, joining and cleaning multiple large datasets
-* Moved to Git version control
-* Built automated reporting platform saving countless hours per week
-* Built model design and production frameworks
-* Designed entire model analysis platform to suit company metrics
-* Changed underlying model distributions
+* Used multivariate outlier detection to speed up database mapping problems
+* Moved our dev team to Git version control
+* Automated live reporting tools including triggers for statistically significant deviations from expectations
+* Made significant improvements to the infrastructure robustness of our production models
+* Designed entire model analysis platform for creating, storing and comparing models
 * Significant improvements to modelling features
+* Changed our underlying production model distributions
 * Change the problem definition to allow the move to elasticnet models and large improvements across our metrics
 
 ## Eduction
 
 **(2012 - May 2016) Imperial College London - PhD Electrical & Electronic Engineering Research**  
-* Speech and Audio Signal Processing Group.
-* Supervisor: Mike Brookes
+* Speech and Audio Signal Processing Group. Supervisor: Mike Brookes
 * **Thesis**: Robust Beamforming in the Presence of Channel Propagation Uncertainties - <http://hdl.handle.net/10044/1/43535>
-* Interests include microphone arrays, beamforming, audio/speech analysis, stochastic processes.
+* Interests include microphone arrays, beamforming, audio/speech analysis, reverberation, stochastic processes.
 
 <!-- * Journal papers
     * Robust Power Domain Beamforming, pending.
@@ -125,17 +129,16 @@ Git, SQL server, Jira/Confluence   -->
 
 ## Interests
 * Music
-    * Bass guitarist for the Imperial Medics Jazz Band for 5 years
+    * Played bass guitar and drums across multiple bands
+    * Including managing and sound engineering for concerts, weddings, balls  
+
+<!-- * Bass guitarist for the Imperial Medics Jazz Band for 5 years
     * Managed the band for two successful years
     * Managed and played in numerous other bands for concerts, weddings, balls
     * Experience sound engineering concerts
-    * Played drums in several bands
+    * Played drums in several bands -->
 * Basketball
-    * Reached the quarter finals of the under 19s national cup
-    * Played in the Imperial College basketball team for 4 years
 * Athletics
-    * Trained as an athlete from the age of 12
-    * Won numerous awards through school years at the county, borough and school levels
 
 
 <!-- ### Footer
