@@ -103,7 +103,7 @@ Significant projects include:
 ## Tech Skills
 * Matlab, Python (Pandas, Numpy etc.)
 * Data cleaning and visualisation
-* Stats - regression modelling, Bayesian stats, machine learning
+* Statistics - regression modelling, machine learning, Bayesian statistics
 * Git, SQL server, Jira/Confluence, Markdown  
 
 
