@@ -41,7 +41,7 @@ Significant projects include:
 * Designed entire model analysis platform for creating, storing and comparing models
 * Significant improvements to modelling features
 * Changed our underlying production model distributions
-* Change the problem definition to allow the move to elasticnet models and large improvements across our metrics
+* Changed the problem definition rather than improve on existing solutions which reduced our coefficient confidential intervals by a factor of 20. This allowed the move to elasticnet models and large improvements across our metrics
 
 ## Eduction
 
